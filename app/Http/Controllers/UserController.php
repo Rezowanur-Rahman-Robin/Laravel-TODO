@@ -20,9 +20,9 @@ class UserController extends Controller
     public function index()
     {
         $data = [
-            'name'    => 'Elon',
-            'email'   => 'elon@bitfumes.com',
-            'password'=> 'password',
+            'name'    => 'Rezwan',
+            'email'   => 'rezwan@bitfumes.com',
+            'password'=> '123456',
         ];
         // User::create($data);
         // $user           = new User();
